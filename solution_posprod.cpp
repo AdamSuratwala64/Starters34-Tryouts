@@ -1,3 +1,5 @@
+//The solution of the problem POSPROD is given below. The solution correct although it faces TLE for the subtask #4 and #5.
+
 #include <iostream>
 using namespace std;
 
